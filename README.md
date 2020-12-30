@@ -8,7 +8,7 @@ In this code, the scripts developed by david young are used.
 David Young (2020). 
 Hough transform for circles (https://www.mathworks.com/matlabcentral/fileexchange/26978-hough-transform-for-circles), MATLAB Central File Exchange. Retrieved August 26, 2020.
 
-![alt text](https://github.com/mfaysoares/Matlab-Codes/blob/master/hough_transform/guide.png)
+![alt text](https://github.com/mfaysoares/Hough-Transform/blob/main/guide.png)
 
 
 
